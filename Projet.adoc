@@ -1,0 +1,52 @@
+= Projet 2018 pour les Relations aux professionnels
+Patrick Martineau <patrick.martineau@univ-tours.fr>
+v1.0, 2018-03-15
+:sectnums:
+:imagesdir: ./images
+
+Le point sur les relations avec les entreprises :
+
+.Un point sur la diversité des Relations
+image::RelationsEntreprises.jpeg[CarteRelationsEntreprises,500,300]
+
+== A court terme
+
+* [*] Stages :
+** [*] Uniformisation OK mais il faut envisager des jurys transversaux
+** [ ] Extension des évaluations à prévoir aux 4A et 3A
+** [ ] Quel usage pour ces évaluations de compétences ?
+
+* [*] Alternance :
+** [ ] Renforcé au DAE (Problème au DEE - Acceptation au DI)
+** [ ] Nouvelle formation en apprentissage en Mécanique ?
+
+* [ ] Conventions :
+** [*] Réseau Polytech
+** [ ] Polytech Tours à structurer davantage
+
+* [ ] Taxe d'Apprentissage :
+** [*] Communication et collecte centralisée
+** [ ] Dépenses sur projets d'investissements sélectionnés
+
+* [ ] Vacations
+** [*] Liste globale
+** [ ] Recherche et Accueil doivent être formalisés
+
+* [ ] Conférences et Visites : il faudrait avoir une organisation transversakle de celles-ci et des visites d'entreprises
+
+
+== A moyen termes
+
+* Projets pédagogiques avec les partenaires à séparer en 2 catégories
+** Le maintien des relations avec les partenaires actuels
+** L'amorce de nouvelles relations innovantes
+* Des projets de Recherche aux Start-up : utiliser les projets pour susciter l'envie d'innover chez les étudiants
+
+
+=== Prioritaire
+
+* Développer les relations avec les entreprises à travers les projets pédagogiques
+** Pour développer les relations avec les entreprises
+** mais aussi pour amorcer de nouveaux projets de Recherche. Au delà de l'intérêt de nouveaux projets, il faut remettre au centre de notre activité la double compétence enseignement et recherche en associant au sein d'une activité les deux compétences.
+* Sur la Taxe d'Apprentissage, si la répartition peut rester inchangée cette année, il faudra rapidement augmenter les moyens communs et développer une vraie politique d'investissement de Polytech à travers des projets sélectionnés
+* Le développement de la Formation Continue peut se faire en fixant comme objectif que chaque spécialité élabore un projet de formation courte, non diplomante, sur la base des compétences spécifiques en s'appuyant sur les activités de Recherche des enseignants chercheurs
